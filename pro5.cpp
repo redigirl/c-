@@ -12,7 +12,7 @@ int main() {
 	int b=20;
 	int sum;
     sum =add(a, b);
-	cout<<"sum of the two num is:"<<sum<<endl;
+	cout<<"sum of the two numbers is:"<<sum<<endl;
 	
 	
 	return 0;	
